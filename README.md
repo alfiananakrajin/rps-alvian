@@ -21,9 +21,4 @@
 - Download RPS
 - Generate Printer Dompdf
 
-### Keterangan <br/>
-
-Database : <code>jokiweb</code> "Bisa dicustom saat membuat DB"<br/>
-
-<br/>
-# rps-alvian
+### Keterangan 
